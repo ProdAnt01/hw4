@@ -7,11 +7,11 @@ The program learn by reading and processing text file without dictionaries and b
 
 ## Details
 
-TextProcessor.java : Cleans and split the text from training files into sentences and words.
-SemanticDescriptorBuilder.java : Builds co occurence vectors (semanitc descriptors) form training files sentences
-SimilarityCalculator.java : Calculates the cosine similarity between two vectors
-SynonymSolver.java : Chooses the most similar word from given options and prints the results with accuracy percentage.
-SemanticSimilarity.java : Main class for running the project using command lin arguments for tarining files and synonym questions files.
+# TextProcessor.java : Cleans and split the text from training files into sentences and words.
+# SemanticDescriptorBuilder.java : Builds co occurence vectors (semanitc descriptors) form training files sentences
+# SimilarityCalculator.java : Calculates the cosine similarity between two vectors
+# SynonymSolver.java : Chooses the most similar word from given options and prints the results with accuracy percentage.
+# SemanticSimilarity.java : Main class for running the project using command lin arguments for tarining files and synonym questions files.
 
 ## File structure:
 

@@ -1,4 +1,4 @@
-# Semantic Similarity Solver
+# Synonym Solver
 
 ## Description
 
